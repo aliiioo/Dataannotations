@@ -1,8 +1,8 @@
 # Dataannotations
 
-lets study with eachother ❤
+lets Learn with eachother ❤
 
-Dataannotations validation
+Dataannotations validation with example
 
 We use Dataannotations for the validation of the models that we have
 In fact, we can also use Fluent Validation
