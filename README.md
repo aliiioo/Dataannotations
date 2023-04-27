@@ -1,6 +1,6 @@
 # Dataannotations
 
-lets Learn with eachother ❤
+lets Learn with eachother 
 
 Dataannotations validation with example
 
