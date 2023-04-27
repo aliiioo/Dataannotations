@@ -15,4 +15,5 @@ Data Annotation attributes directly applies to Model class member and those memb
 
 We Have Fluent Validation source code in this page 
 you can see it too.
+
 Thanks ❤
