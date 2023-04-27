@@ -1,6 +1,7 @@
 # Dataannotations
-# HI i'm ali Ranjbaran ✌
-# lets study with eachother ❤
+
+lets study with eachother ❤
+
 Dataannotations validation
 
 We use Dataannotations for the validation of the models that we have
